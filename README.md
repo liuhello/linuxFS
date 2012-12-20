@@ -1,4 +1,4 @@
 linuxFS
 =======
 
-some code read FileSysterm file
+Some code show how to read FileSysterm file.
