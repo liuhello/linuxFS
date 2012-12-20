@@ -13,6 +13,7 @@ public class TestExt2 {
 		fs.load();
 		fs.listFile();
 		System.out.println(fs.getFileContent("/log/select_server.log.2012-12-10"));
+		System.out.println(fs.getFileContent("/log/../log/select_server.log.2012-12-10"));
 	}
 
 }
